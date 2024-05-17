@@ -1,16 +1,11 @@
 # camara_gps
+En este proyecto implementamos la utilizacion de la dependencia Image.Picker con la idea de que la aplicacion pueda tener acceso a la camara y a la galeria
+![image](https://github.com/JMAPKO/App-Camara/assets/134008893/f5a3ab32-e925-449a-b584-a4b5018b3686)
 
-A new Flutter project.
+tuve la oportunidad de practicar con try y catch 
+ademas de nuevos tipos de variables como dynamic donde guardo los errores
+image.File
 
-## Getting Started
+hicimos la aplicacion en dos verciones una que utiliza el Provider y otra normal con el setState
+![image](https://github.com/JMAPKO/App-Camara/assets/134008893/5ba9fef0-84d8-48c5-aa6d-db618ad0a1b7)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
